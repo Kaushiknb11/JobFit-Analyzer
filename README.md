@@ -1,6 +1,6 @@
 # JobFit-Analyzer
 
-Welcome to **JobFit Analyzer**, an innovative application designed to enhance your resume's compatibility with Applicant Tracking Systems (ATS). In today's competitive job market, it's crucial to ensure your resume stands out and meets the specific requirements of job descriptions (JDs). JobFit Analyzer leverages advanced AI technology to analyze your resume against job descriptions, providing valuable feedback to optimize your chances of landing your dream job.
+Welcome to **JobFit Analyzer**, an innovative application designed to enhance your resume's compatibility with Applicant Tracking Systems (ATS). In today's competitive job market, it is crucial to ensure your resume stands out and meets the specific requirements of job descriptions (JDs). JobFit Analyzer leverages advanced AI technology to analyze your resume against job descriptions, providing valuable feedback to optimize your chances of landing your dream job.
 
 ## Key Features
 
